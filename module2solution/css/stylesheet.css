@@ -19,7 +19,7 @@ h2 {
 	float: right;
 	width: 200px;
 	padding: 5px;
-	border: 1px solid #FFFFFF;
+	border: 1px solid #000000;
 	margin: 0 0 10px 0;
 	text-align: center;
 	background-color: #105802;
@@ -34,13 +34,21 @@ p {
 	color: #313131;
 }
 
+#Tuesday {
+	background-color: #102802;
+}
+
+#Saturday {
+	background-color: #108802;
+}
+
 div div {
 	float: left;
 }
 
 div div div {
 	margin: 5px;
-	border: 1px solid #FFFFFF;
+	border: 0 0 1px 1px solid #000000;
 	background-color: #c2c2c2;
 	/*float: left;*/
 }
